@@ -1,5 +1,4 @@
-## Ex. No. 03 -
-## Histogram-of-an-images
+## Ex. No. 03 - Histogram-of-an-images
 ## Name: K Charan Teja 
 ## Register no:212224040163
 ## Aim
